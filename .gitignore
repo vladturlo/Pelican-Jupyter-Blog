@@ -1,0 +1,11 @@
+.idea
+*.pyc
+*.log
+cache
+*.pid
+.ropeproject
+.ipynb_checkpoints
+__pycache__
+output
+pelican-plugins
+pelican-themes
